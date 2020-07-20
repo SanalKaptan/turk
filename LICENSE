@@ -1,0 +1,53 @@
+Apache Lisansı
+
+Sürümü 2.0, Ocak 2004
+
+http://www.apache.org/licenses/
+
+KULLANIM, ÜREME VE DAĞITIM KOŞULLARI
+
+1. Tanımlar .
+
+" Lisans ", bu belgenin 1 ila 9 bölümleri arasında tanımlanan kullanım, çoğaltma ve dağıtım hüküm ve koşullarını ifade eder.
+
+" Lisans Veren ", Lisansı veren telif hakkı sahibi tarafından yetkilendirilen telif hakkı sahibi veya tüzel kişi anlamına gelir.
+
+" Tüzel Kişi", faaliyette bulunan kuruluşun ve bu kuruluş tarafından kontrol edilen, o kuruluş tarafından kontrol edilen veya onunla ortak kontrol altında olan diğer tüm kuruluşların birleşmesi anlamına gelir. Bu tanımın amaçları doğrultusunda, " kontrol ", (i) sözleşmeli veya başka bir şekilde söz konusu işletmenin yönüne veya yönetimine neden olan doğrudan veya dolaylı güç veya (ii) yüzde elli (% 50) sahiplik veya ödenmemiş hisselerin daha fazlası veya (iii) bu tür bir işletmenin faydalı sahipliği.
+
+" Siz " (veya " Sizin "), bu Lisans tarafından verilen izinleri kullanan bireysel veya Tüzel Kişi anlamına gelir.
+
+" Kaynak " formu, yazılım kaynak kodu, dokümantasyon kaynağı ve yapılandırma dosyaları dahil ancak bunlarla sınırlı olmamak üzere değişiklik yapmak için tercih edilen form anlamına gelir.
+
+" Nesne " formu, derlenmiş nesne kodu, oluşturulan belgeler ve diğer ortam türlerine dönüştürmeler dahil ancak bunlarla sınırlı olmamak üzere, bir Kaynak formunun mekanik dönüşümü veya çevirisinden kaynaklanan herhangi bir form anlamına gelir.
+
+" İş ", Çalışmanın içinde yer alan veya ona eklenmiş bir telif hakkı bildirimi ile belirtildiği gibi, Lisans altında Kaynak veya Nesne biçiminde sunulan yazarlık işi anlamına gelir (aşağıdaki Ekte bir örnek verilmiştir).
+
+" Türev Çalışmalar ", Kaynak veya Nesne biçiminde, Çalışmaya dayanan (veya türetilmiş) herhangi bir çalışmayı, editoryal revizyonların, ek açıklamaların, ayrıntıların veya diğer değişikliklerin bir bütün olarak orijinal çalışmayı temsil ettiği anlamına gelir. yazarlık. Bu Lisansın amaçları doğrultusunda, Türev Çalışmalar, İş ve Türev İşlerinin arayüzlerinden ayrılabilen veya yalnızca bunlarla bağlantı kuran (veya ada göre bağlanan) çalışmaları içermeyecektir.
+
+" Katkı ", Eserin orijinal sürümü ve bu Eserin veya Türev Eserleri üzerinde, telif hakkı sahibi veya bir kişi tarafından Esere dahil edilmek üzere Lisans Verene kasıtlı olarak gönderilen her türlü yazarlık çalışması anlamına gelir. Tüzel kişi, telif hakkı sahibi adına gönderme yetkisine sahiptir. Bu tanımın amaçları doğrultusunda, " gönderildi", Elektronik posta listeleri, kaynak kodu kontrol sistemleri ve tarafından yönetilen veya bunlar adına yönetilen sorun izleme sistemleri dahil ancak bunlarla sınırlı olmamak üzere, Lisans Verene veya temsilcilerine gönderilen her türlü elektronik, sözlü veya yazılı iletişim anlamına gelir. Çalışmayı tartışmak ve iyileştirmek amacıyla Lisans Veren, ancak telif hakkı sahibi tarafından " Katkı Değil " olarak yazılı olarak dikkat çekici bir şekilde işaretlenmiş veya yazılı olarak belirtilen iletişimi hariç tutmak amacıyla . "
+
+" Katkıda bulunan ", Lisans Veren ve adına Lisans Veren tarafından Katkıda bulunan ve daha sonra Çalışmaya dahil edilen herhangi bir şahıs veya Tüzel Kişi anlamına gelir.
+
+2. Telif Hakkı Lisansının Verilmesi . Bu Lisansın hüküm ve koşullarına tabi olarak, her bir Katılımcı size sürekli, dünya çapında, münhasır olmayan, ücretsiz, telifsiz, değiştirilemez telif hakkı lisansını çoğaltmak, hazırlamak, kamuya açık sergilemek, kamuya açık olarak gerçekleştirmek, Çalışmayı ve bu Türev Çalışmaları Kaynak veya Nesne biçiminde lisanslayın ve dağıtın.
+
+3. Patent Lisansının Verilmesi. Bu Lisansın hüküm ve koşullarına tabi olarak, her bir Katılımcı size sürekli, dünya çapında, münhasır olmayan, ücretsiz, telifsiz, geri alınamaz (bu bölümde belirtilenler hariç) patent lisansı vermiş, İşi satmayı, satmayı, ithal etmeyi ve başka şekilde devretmeyi teklif etme, bu tür bir lisans yalnızca Katkıda bulunanların yalnızca Katkı (lar) ını veya Katkı (lar) ını bir arada bu tür katkıların sunulduğu çalışma. İşin veya İşe dahil edilen bir Katkının doğrudan veya katkıda bulunan patent ihlali oluşturduğunu iddia eden herhangi bir kuruluşa (davada çapraz talep veya karşı dava da dahil olmak üzere) patent davası açarsanız,
+
+4. Yeniden dağıtım . İşin veya Türev Çalışmalarının kopyalarını, herhangi bir ortamda, değişikliklerle veya değişiklik yapmadan ve aşağıdaki koşulları yerine getirmeniz koşuluyla Kaynak veya Nesne biçiminde çoğaltabilir ve dağıtabilirsiniz:
+
+İşin veya Türev İşlerin diğer alıcılarını bu Lisansın bir kopyasını vermelisiniz; ve
+Değiştirilen dosyaların, dosyaları değiştirdiğinizi belirten önemli bildirimler taşımasına neden olmalısınız; ve
+Türev İşlerin hiçbir bölümü ile ilgili olmayan bildirimler hariç, dağıttığınız Türev İşlerin Kaynak formunda, İşin Kaynak formundaki tüm telif hakkı, patent, ticari marka ve atıf bildirimlerini; ve
+İş bir " BİLDİRİM içeriyorsa"dağıtımının bir parçası olarak metin dosyası, daha sonra dağıttığınız Türev Çalışmalar, Türev Çalışmalar'ın herhangi bir bölümü ile ilgili olmayan bildirimler hariç, bu tür bir BİLDİRİM dosyasında yer alan ilişkilendirme bildirimlerinin okunabilir bir kopyasını içermelidir. Aşağıdaki durumlarda: Türev Çalışmaların bir parçası olarak dağıtılan bir BİLDİRİM metin dosyasında, Türev Çalışmalarla birlikte sağlandıysa Kaynak formunda veya belgelerinde veya Türev Çalışmaların oluşturduğu bir görüntüde, NOTICE dosyasının içeriği yalnızca bilgilendirme amaçlıdır ve Lisansı değiştirmez .. Notice metnini Work'ten yanına veya ek olarak Türev Eserler'e dağıttığınız Türev Çalışmalara ekleyebilirsiniz,bu ek atıf bildirimlerinin Lisansı değiştirdiği şeklinde yorumlanmaması şartıyla.
+
+Değişikliklerinize kendi telif hakkı beyanınızı ekleyebilir ve değişikliklerinizin kullanımı, çoğaltılması veya dağıtılması veya kullanımınız, çoğaltılması ve dağıtılması koşuluyla bu tür Türev Çalışmalar için ek veya farklı lisans hüküm ve koşulları sağlayabilirsiniz. İş aksi takdirde bu Lisansta belirtilen koşullara uymaktadır.
+5. Katkıların Sunulması . Aksi açıkça belirtmedikçe, Tarafınızdan Çalışmaya Lisans Verene dahil edilmek üzere kasıtlı olarak gönderilen Katkılar, herhangi bir ek hüküm veya koşul olmaksızın bu Lisansın hüküm ve koşulları altında olacaktır. Yukarıdakilere bakılmaksızın, buradaki hiçbir şey, Lisans Alan ile bu tür Katkılarla ilgili olarak yapmış olabileceğiniz herhangi bir ayrı lisans sözleşmesinin koşullarını geçersiz kılamaz veya değiştiremez.
+
+6. Ticari markalar . Bu Lisans, İşin kökenini açıklamada ve BİLDİRİM dosyasının içeriğini çoğaltmada makul ve geleneksel kullanım için gerekli olmadıkça Lisans Verenin ticari adlarını, ticari markalarını, hizmet markalarını veya ürün adlarını kullanma izni vermez.
+
+7. Garantinin Reddi . Yürürlükteki yasaların gerektirmediği veya yazılı olarak kabul edilmediği sürece Lisans veren, Çalışmayı (ve her Katılımcı Katkısını) HERHANGİ BİR TÜRÜN GARANTİSİ VEYA KOŞULLARI OLMADAN "sınırlama olmaksızın" TITLE, INFRINGEMENT, TİCARİ OLABİLİRLİK veya BELİRLİ BİR AMACA UYGUNLUK garanti veya koşulları. Çalışmayı kullanmanın veya yeniden dağıtmanın uygunluğunu belirlemekten ve bu Lisans kapsamındaki izinleri kullanmanızla ilişkili riskleri üstlenmek sizin sorumluluğunuzdadır.
+
+8. Sorumluluğun Sınırlandırılması . Hiçbir durumda ve hiçbir yasal teori altında, haksız fiil (ihmal dahil), sözleşme veya başka bir şekilde, yürürlükteki yasalar (kasıtlı ve ağır ihmalkar fiiller gibi) gerektirmedikçe veya yazılı olarak kabul edilmedikçe, herhangi bir Katılımcı size karşı yükümlü olacaktır. bu Lisansın bir sonucu olarak ortaya çıkan ya da İşin kullanımından ya da kullanılamamasından kaynaklanan herhangi bir karakterin doğrudan, dolaylı, özel, arızi ya da sonuç olarak ortaya çıkan zararları dahil (şerefiye kaybı, iş kesintisi zararları dahil ancak bunlarla sınırlı olmamak üzere) , bilgisayar arızası veya arızası veya diğer tüm ticari hasar veya kayıplar), bu Katılımcıya bu tür hasarların olasılığı bildirilmiş olsa bile.
+
+9. Garanti veya Ek Sorumluluğu Kabul Etme . Çalışmayı veya Türev Çalışmalarını yeniden dağıtırken, bu Lisansa uygun destek, garanti, tazminat veya diğer yükümlülük yükümlülükleri ve / veya hakları için bir ücret kabul etmeyi ve bir ücret talep etmeyi seçebilirsiniz. Ancak, bu tür yükümlülükleri kabul ederken, başka bir Katılımcı adına değil, yalnızca kendi adınıza ve yalnızca sizin sorumluluğunuzda hareket edebilir ve yalnızca, her bir Katkıda bulunan herhangi bir yükümlülük için tazminat vermeyi, savunmayı ve zararsız tutmayı kabul ederseniz, veya bu tür bir Garantiyi veya ek yükümlülüğü kabul etmeniz nedeniyle bu Katılımcıya karşı iddia edilen iddialar.
+
+HÜKÜM VE KOŞULLARIN SONU
