@@ -1,8 +1,6 @@
 #!/bin/bash|
 
-
 clear
-echo -e  "
 
 echo -e '\033[32;40;1m
         /\︵-︵/\
